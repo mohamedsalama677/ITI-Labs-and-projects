@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1729697757 source:d:\0 iti 9 month\a1 intro to programming using c\lab 7 3 menu new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<string.h>
+	<conio.h>
+
