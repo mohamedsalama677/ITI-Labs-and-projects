@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1729322784 source:d:\iti 9 month\lab 4 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1729322571 source:d:\0_iti_9_month\a1 intro to programming using c\labs\4\lab 4 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

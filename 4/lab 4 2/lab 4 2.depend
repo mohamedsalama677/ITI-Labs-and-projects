@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1729325403 source:d:\iti 9 month\lab 4 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<string.h>
+	<conio.h>
+
